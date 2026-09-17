@@ -11,10 +11,11 @@ Este repositório reúne grande parte do meu **portfólio**, mostrando minha evo
 * JavaScript
 * Git
 * APIs
-
-## ⚛️ Em andamento
-
 * React
+
+## 🗄️ Em andamento
+
+* SQL
 
 ## 💻 Sobre o repositório
 
@@ -39,10 +40,11 @@ This repository contains a large part of my **portfolio**, showcasing my progres
 * JavaScript
 * Git
 * APIs
-
-## ⚛️ Currently learning
-
 * React
+
+## 🗄️ Currently learning
+
+* SQL
 
 ## 💻 About this repository
 

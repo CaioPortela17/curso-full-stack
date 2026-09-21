@@ -1,55 +1,73 @@
-# 🚀 Curso Full Stack — Digital College
+<div align="center">
 
-Repositório com os projetos, exercícios e práticas desenvolvidos durante meu curso de **Desenvolvimento Full Stack na Digital College**.
+# 🚀 Full Stack Developer — Digital College
 
-Este repositório reúne grande parte do meu **portfólio**, mostrando minha evolução e os conhecimentos que venho adquirindo ao longo do curso.
+Projetos, exercícios e práticas desenvolvidos ao longo da minha formação em **Desenvolvimento Full Stack** na Digital College.
 
-## 📚 Tecnologias já vistas
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&labelColor=20232a)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&labelColor=20232a)](https://developer.mozilla.org/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&labelColor=20232a)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&labelColor=20232a)](https://react.dev/)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&labelColor=20232a)](https://git-scm.com/)
+[![SQL](https://img.shields.io/badge/SQL-em%20andamento-4479A1?logo=postgresql&logoColor=white&labelColor=20232a)](#)
 
-* HTML
-* CSS
-* JavaScript
-* Git
-* APIs
-* React
+🇧🇷 Português&nbsp;&nbsp;|&nbsp;&nbsp;[🇺🇸 English](#-english)
 
-## 🗄️ Em andamento
+</div>
 
-* SQL
+---
 
-## 💻 Sobre o repositório
+## 📖 Sobre o repositório
 
-Aqui estão reunidos projetos e exercícios desenvolvidos durante minha jornada de aprendizado.
+Este repositório reúne parte do meu **portfólio de aprendizado**: projetos e exercícios feitos ao longo da formação Full Stack, organizados conforme avanço no curso. A ideia é documentar minha evolução técnica de forma transparente — do HTML/CSS básico até aplicações completas em React consumindo APIs.
 
-O repositório está em constante atualização e, conforme avanço no curso, **novos conteúdos, tecnologias e projetos serão adicionados futuramente**.
+## 📚 Tecnologias
+
+| Já cobertas | Em andamento |
+|---|---|
+| HTML, CSS, JavaScript | SQL |
+| Git & GitHub | |
+| Consumo de APIs | |
+| React | |
+
+## 🔄 Atualizações
+
+Este repositório é atualizado continuamente: novos projetos, exercícios e tecnologias são adicionados conforme avanço na formação.
 
 📌 **Status:** Em andamento 🚧
 
 ---
+---
 
-# 🚀 Full Stack Course — Digital College
+<a id="-english"></a>
 
-Repository containing projects, exercises, and practices developed during my **Full Stack Development course at Digital College**.
+<div align="center">
 
-This repository contains a large part of my **portfolio**, showcasing my progress and the skills I have been developing throughout the course.
+# 🚀 Full Stack Developer — Digital College
 
-## 📚 Technologies covered
+Projects, exercises, and practices developed throughout my **Full Stack Development** program at Digital College.
 
-* HTML
-* CSS
-* JavaScript
-* Git
-* APIs
-* React
+[🇧🇷 Português](#-full-stack-developer--digital-college)&nbsp;&nbsp;|&nbsp;&nbsp;🇺🇸 English
 
-## 🗄️ Currently learning
+</div>
 
-* SQL
+---
 
-## 💻 About this repository
+## 📖 About this repository
 
-This repository contains projects and exercises developed throughout my learning journey.
+This repository holds part of my **learning portfolio**: projects and exercises built throughout the Full Stack program, organized as I progress through the course. The goal is to document my technical growth transparently — from basic HTML/CSS to full React applications consuming APIs.
 
-The repository is constantly being updated, and as I progress through the course, **new content, technologies, and projects will be added in the future**.
+## 📚 Technologies
+
+| Covered | In progress |
+|---|---|
+| HTML, CSS, JavaScript | SQL |
+| Git & GitHub | |
+| API consumption | |
+| React | |
+
+## 🔄 Updates
+
+This repository is updated continuously: new projects, exercises, and technologies are added as I progress through the course.
 
 📌 **Status:** In progress 🚧

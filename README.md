@@ -9,7 +9,7 @@ Projetos, exercícios e práticas desenvolvidos ao longo da minha formação em 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&labelColor=20232a)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&labelColor=20232a)](https://react.dev/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&labelColor=20232a)](https://git-scm.com/)
-[![SQL](https://img.shields.io/badge/SQL-em%20andamento-4479A1?logo=postgresql&logoColor=white&labelColor=20232a)](#)
+[![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados%20(SQL)-em%20andamento-4479A1?logo=postgresql&logoColor=white&labelColor=20232a)](#)
 
 🇧🇷 Português&nbsp;&nbsp;|&nbsp;&nbsp;[🇺🇸 English](#-english)
 
@@ -25,7 +25,7 @@ Este repositório reúne parte do meu **portfólio de aprendizado**: projetos e 
 
 | Já cobertas | Em andamento |
 |---|---|
-| HTML, CSS, JavaScript | SQL |
+| HTML, CSS, JavaScript | Banco de Dados (SQL) |
 | Git & GitHub | |
 | Consumo de APIs | |
 | React | |
@@ -61,7 +61,7 @@ This repository holds part of my **learning portfolio**: projects and exercises 
 
 | Covered | In progress |
 |---|---|
-| HTML, CSS, JavaScript | SQL |
+| HTML, CSS, JavaScript | Databases (SQL) |
 | Git & GitHub | |
 | API consumption | |
 | React | |

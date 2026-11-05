@@ -10,7 +10,7 @@ Projetos, exercícios e práticas desenvolvidos ao longo da minha formação em 
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&labelColor=20232a)](https://react.dev/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&labelColor=20232a)](https://git-scm.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-em%20andamento-5FA04E?logo=nodedotjs&logoColor=white&labelColor=20232a)](https://nodejs.org/)
-[![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados%20%28SQL%29-conclu%C3%ADdo-4479A1?logo=postgresql&logoColor=white&labelColor=20232a)](#)
+[![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados%20SQL-conclu%C3%ADdo-4479A1?logo=postgresql&logoColor=white&labelColor=20232a)](#)
 
 🇧🇷 Português&nbsp;&nbsp;|&nbsp;&nbsp;[🇺🇸 English](#-english)
 

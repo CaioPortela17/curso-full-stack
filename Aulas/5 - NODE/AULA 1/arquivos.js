@@ -1,7 +1,7 @@
-const fs = require('node.fs')
+const fs = require('node:fs')
 
 fs.writeFileSync (
-    "mensagem.text", 'console.log("Criamos o arquivo com Node.js")'
+    "mensagem.txt", 'console.log("Criamos o arquivo com Node.js")'
 
 )
 

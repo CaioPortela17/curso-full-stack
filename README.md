@@ -10,7 +10,7 @@ Projetos, exercícios e práticas desenvolvidos ao longo da minha formação em 
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&labelColor=20232a)](https://react.dev/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&labelColor=20232a)](https://git-scm.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-em%20andamento-5FA04E?logo=nodedotjs&logoColor=white&labelColor=20232a)](https://nodejs.org/)
-[![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados%20(SQL)-em%20andamento-4479A1?logo=postgresql&logoColor=white&labelColor=20232a)](#)
+[![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados%20%28SQL%29-conclu%C3%ADdo-4479A1?logo=postgresql&logoColor=white&labelColor=20232a)](#)
 
 🇧🇷 Português&nbsp;&nbsp;|&nbsp;&nbsp;[🇺🇸 English](#-english)
 
@@ -26,10 +26,11 @@ Este repositório reúne parte do meu **portfólio de aprendizado**: projetos e 
 
 | Já cobertas | Em andamento |
 |---|---|
-| HTML, CSS, JavaScript | Banco de Dados (SQL) |
+| HTML, CSS, JavaScript | Node.js |
 | Git & GitHub | |
 | Consumo de APIs | |
-| React | Node.js |
+| React | |
+| Banco de Dados (SQL) | |
 
 ## 🔄 Atualizações
 
@@ -62,10 +63,11 @@ This repository holds part of my **learning portfolio**: projects and exercises 
 
 | Covered | In progress |
 |---|---|
-| HTML, CSS, JavaScript | Databases (SQL) |
+| HTML, CSS, JavaScript | Node.js |
 | Git & GitHub | |
 | API consumption | |
-| React | Node.js |
+| React | |
+| Databases (SQL) | |
 
 ## 🔄 Updates
 

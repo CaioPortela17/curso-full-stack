@@ -5,7 +5,7 @@
 Projetos, exercícios e práticas desenvolvidos ao longo da minha formação em **Desenvolvimento Full Stack** na Digital College.
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&labelColor=20232a)](https://developer.mozilla.org/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&labelColor=20232a)](https://developer.mozilla.org/docs/Web/CSS)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white&labelColor=20232a)](https://developer.mozilla.org/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&labelColor=20232a)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&labelColor=20232a)](https://react.dev/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&labelColor=20232a)](https://git-scm.com/)

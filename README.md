@@ -20,14 +20,22 @@ Projetos, exercícios e práticas desenvolvidos ao longo da minha formação em 
 
 ## 📖 Sobre o repositório
 
-Este repositório reúne parte do meu **portfólio de aprendizado**: projetos e exercícios feitos ao longo da formação Full Stack, organizados conforme avanço no curso. A ideia é documentar minha evolução técnica de forma transparente — do HTML/CSS básico até aplicações completas em React consumindo APIs.
+Aqui ficam as **aulas, exercícios e projetos** que faço na formação Full Stack da Digital College, organizados por módulo na pasta `Aulas/`:
+
+1. **HTML e CSS**: páginas, formulários, Flexbox e responsividade
+2. **JavaScript**: lógica, funções, arrays, DOM, eventos, consumo de APIs e `localStorage`
+3. **React**: componentes, props, hooks, React Router e PrimeReact
+4. **Banco de Dados**: SQL, relacionamentos e JOINs
+5. **Node.js**: módulos, npm, manipulação de arquivos e API REST
+
+A ideia é documentar minha evolução de forma transparente, do HTML/CSS básico até o back-end com Node.js, e o conteúdo cresce conforme avanço no curso.
 
 ## 📚 Tecnologias
 
 | Já cobertas | Em andamento |
 |---|---|
 | HTML, CSS, JavaScript | Node.js |
-| Git & GitHub | API REST com Express + Sequelize + PostgreSQL |
+| Git & GitHub | API REST com Express + Sequelize |
 | Consumo de APIs | |
 | React | |
 | Banco de Dados (SQL) | |
@@ -57,14 +65,22 @@ Projects, exercises, and practices developed throughout my **Full Stack Developm
 
 ## 📖 About this repository
 
-This repository holds part of my **learning portfolio**: projects and exercises built throughout the Full Stack program, organized as I progress through the course. The goal is to document my technical growth transparently — from basic HTML/CSS to full React applications consuming APIs.
+This is where I keep the **classes, exercises, and projects** from my Full Stack program at Digital College, organized by module in the `Aulas/` folder:
+
+1. **HTML and CSS**: pages, forms, Flexbox, and responsive design
+2. **JavaScript**: logic, functions, arrays, the DOM, events, API consumption, and `localStorage`
+3. **React**: components, props, hooks, React Router, and PrimeReact
+4. **Databases**: SQL, relationships, and JOINs
+5. **Node.js**: modules, npm, file handling, and a REST API
+
+The goal is to document my growth transparently, from basic HTML/CSS to the Node.js back end, and the content grows as I move through the course.
 
 ## 📚 Technologies
 
 | Covered | In progress |
 |---|---|
 | HTML, CSS, JavaScript | Node.js |
-| Git & GitHub | REST API with Express + Sequelize + PostgreSQL |
+| Git & GitHub | REST API with Express + Sequelize |
 | API consumption | |
 | React | |
 | Databases (SQL) | |

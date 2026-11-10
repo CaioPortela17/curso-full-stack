@@ -27,7 +27,7 @@ Este repositório reúne parte do meu **portfólio de aprendizado**: projetos e 
 | Já cobertas | Em andamento |
 |---|---|
 | HTML, CSS, JavaScript | Node.js |
-| Git & GitHub | |
+| Git & GitHub | API REST com Express + Sequelize + PostgreSQL |
 | Consumo de APIs | |
 | React | |
 | Banco de Dados (SQL) | |
@@ -64,7 +64,7 @@ This repository holds part of my **learning portfolio**: projects and exercises 
 | Covered | In progress |
 |---|---|
 | HTML, CSS, JavaScript | Node.js |
-| Git & GitHub | |
+| Git & GitHub | REST API with Express + Sequelize + PostgreSQL |
 | API consumption | |
 | React | |
 | Databases (SQL) | |
